@@ -1,3 +1,5 @@
+- Fixed `Phalcon\Session\Bag::remove` to initialize the bag before removing a value
+
 # [3.1.0](https://github.com/phalcon/cphalcon/releases/tag/v3.1.0) (2016-XX-XX)
 - Added `Phalcon\Validation\Validator\Callback`, `Phalcon\Validation::getData`
 - Added the ability to truncate database tables
